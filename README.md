@@ -1,12 +1,33 @@
+Hi, I’m Harine 👋  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithharine&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codewithharine&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharine&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a 3rd-year undergraduate student with a strong interest in **web development and open-source software**, currently preparing for **Google Summer of Code 2026**.
 
----
-[![](https://visitcount.itsvg.in/api?id=codewithharine&icon=0&color=5)](https://visitcount.itsvg.in)
+I enjoy building practical applications, improving developer documentation, and contributing to collaborative software projects.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🎯 Current Focus
+- Preparing for **GSoC 2026**
+- Open-source contributions (code + documentation)
+- Web development using Python and modern web technologies
+
+
+💻 Technical Skills
+- **Programming Languages:** Python, Java (basics), C  
+- **Web Development:** Flask, HTML, CSS, JavaScript  
+- **Version Control:** Git, GitHub  
+- **Other:** Technical documentation, Markdown
+
+
+📌 What I’m Working On
+- Building small but clean **Flask-based web projects**
+- Making beginner-friendly contributions to open-source repositories
+- Improving README files, setup guides, and developer docs
+
+
+🚀 Goals for 2025–2026
+- Become an active contributor in one or more open-source communities
+- Write a strong, mentor-reviewed **GSoC 2026 proposal**
+- Continue learning through real-world collaboration
+
+
+📫 **GitHub:** https://github.com/codewithharine
+
